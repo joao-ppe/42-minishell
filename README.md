@@ -3,12 +3,12 @@
 </div>
 
 <p align="center">
-	<a href="[Subject](https://github.com/joao-ppe/42-minishell/blob/main/en.subject.pdf)">Subject</a> •
+	<a href="#implementation">Implementation</a> •
 	<a href="#how-to-use">How to use</a> •
 	<a href="#norminette">Norminette</a>
 </p>
 
-## Implementation
+## IMPLEMENTATION
 
 **Lexer**<br>
 The lexer/tokenizer processed user input, creating a linked list of tokens and words. It identified special characters and organized them for further parsing.
