@@ -3,12 +3,10 @@
 </div>
 
 <p align="center">
-	<a href="#about">About</a> •
+	<a href="/.github/en.subject.pdf">Subject</a> •
 	<a href="#how-to-use">How to use</a> •
 	<a href="#norminette">Norminette</a>
 </p>
-
-## [Subject](/.github/en.subject.pdf)
 
 ## Implementation
 
