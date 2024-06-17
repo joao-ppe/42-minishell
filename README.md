@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-	<a href="[[/.github/en.subject.pdf]](https://github.com/joao-ppe/42-minishell/blob/main/en.subject.pdf)">Subject</a> •
+	<a href="[Subject](https://github.com/joao-ppe/42-minishell/blob/main/en.subject.pdf)">Subject</a> •
 	<a href="#how-to-use">How to use</a> •
 	<a href="#norminette">Norminette</a>
 </p>
