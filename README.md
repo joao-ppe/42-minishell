@@ -5,6 +5,7 @@
 <p align="center">
 	<a href="#implementation">Implementation</a> •
 	<a href="#how-to-use">How to use</a> •
+	<a href="/en.subject.pdf">Subject</a> •
 	<a href="#norminette">Norminette</a>
 </p>
 
