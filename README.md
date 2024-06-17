@@ -10,16 +10,6 @@
 
 ## ABOUT ([Subject](/.github/en.subject.pdf))
 
-**The Challenge**
-
-Minishell, an individual project, represented a significant milestone in my programming journey. Tasked with creating a miniature version of Bash, this project was the most extensive I had undertaken. The objective was to replicate key functionalities of Bash, encompassing prompt display, command history, executable execution, quoting handling, redirections, pipes, environment variables, signals, and built-in commands.
-
-**Understanding Bash**
-
-To grasp Bash's intricacies, I delved into its fundamental processes—breaking down the system into lexer, parser, expander, and executor stages. This step-by-step approach was crucial to ensuring accuracy and completeness in the implementation.
-
-<br>
-
 ## Implementation
 
 **Lexer**<br>
@@ -48,14 +38,6 @@ A full reset ensured the program could handle new commands by freeing resources 
 
 <br>
 
-## Challenges and Takeaways
-
-Handling edge cases proved to be the most challenging aspect. Despite thorough testing, edge cases continued to emerge, requiring careful debugging and refinement. The project's solo nature allowed for deep personal engagement and mastery of system-level programming concepts. 
-
-The iterative nature of the evaluation process led to a more profound understanding of the intricacies involved, resulting in a successful final submission after addressing identified issues. Minishell stands as a testament to my dedication to mastering system-level programming and creating a functional, efficient shell.
-
-<br>
-
 <a href="/.github/en.subject.pdf">Click here</a> for the subject of this project.
 
 <br>
@@ -64,7 +46,7 @@ The iterative nature of the evaluation process led to a more profound understand
 #### COMPILATION AND EXECUTION
 #### 1º - Clone the repository
 ```bash
-$ ./git clone git@github.com:diocode/42-Minishell.git
+$ ./git clone git@github.com:joao-ppe/42-minishell.git
 ```
 
 #### 2º - Enter the project folder and run `make`
