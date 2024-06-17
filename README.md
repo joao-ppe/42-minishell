@@ -8,7 +8,7 @@
 	<a href="#norminette">Norminette</a>
 </p>
 
-## ABOUT ([Subject](/.github/en.subject.pdf))
+## [Subject](/.github/en.subject.pdf)
 
 ## Implementation
 
