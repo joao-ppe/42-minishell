@@ -36,7 +36,7 @@ A full reset ensured the program could handle new commands by freeing resources 
 
 <br>
 
-<a href="/.github/en.subject.pdf">Click here</a> for the subject of this project.
+<a href="/en.subject.pdf">Click here</a> for the subject of this project.
 
 <br>
 
